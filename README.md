@@ -1,4 +1,4 @@
-## 💙🐱💙🐱💙🐱💙MEOWPHEUS <sup>tech demo</sup>💙🐱💙🐱💙🐱💙🐱💙
+## 💙🐱💙🐱💙🐱💙MEOWPHEUS <sup>tech demo + vertical slice</sup>💙🐱💙🐱💙🐱💙🐱💙
 
 ### Team:
 ###### Jessica Chen 🍰 (Artist + Lead Designer) 🐱
