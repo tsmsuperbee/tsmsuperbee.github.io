@@ -8,11 +8,7 @@
 ###### Paul Li (Programmer) 🐱🍰
 ###### Chan 🐱 Gim (Programmer)
 ###### Taekwan Yoon (Programmer) 🍰
+###### Marcus Der (Executive Producer)🐱
 
-[wow so very cool it's the game Meowpheus 🐱 (tech demo)](/tech_demo)
-
-[🐱 tech_demo zip file (woo) (tech demo)](/tech_demo.zip)
-
-[it's the vertical (cake) slice!!! 🍰🐱 (vertical slice)](/vertical_slice)
-
-[🍰🍰🍰 vertical (cake) slice zip file!!! (vertical slice)](/vertical_slice.zip)
+[🐱click here for our beta release! 🐱](/beta_release)
+[🐱click here for our beta release zip folder! 🐱](/beta_release.zip)
