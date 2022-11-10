@@ -19,6 +19,7 @@ The information that the player encounters (quests, dialog, clues etc.) is recor
 The player will use their skills and knowledge (along with the journal, if they need it!) to form a pertinent word by walking on letter tiles scattered across special dream-like maps (SOS, state of stupor) all while dodging projectiles that reset their progress.
 
 ## 🐱BETA RELEASE
-### [GOOGLE FORM SURVEY](/https://forms.gle/fBq5ERNfJQP21Vp29) + [BETA RELEASE](/beta_release)
+### [BETA RELEASE](/beta_release)
+#### link to our survey: https://forms.gle/fBq5ERNfJQP21Vp29
 #### [beta release download](/beta_releast.zip)
 
