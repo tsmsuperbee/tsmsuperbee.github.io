@@ -21,5 +21,5 @@ The player will use their skills and knowledge (along with the journal, if they 
 ## 🐱BETA RELEASE
 ### [BETA RELEASE](/beta_release)
 #### link to our survey: https://forms.gle/fBq5ERNfJQP21Vp29
-#### [beta release download](/beta_releast.zip)
+#### [beta release download](/beta_release.zip)
 
