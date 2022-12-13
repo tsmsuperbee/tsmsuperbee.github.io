@@ -1,6 +1,13 @@
-## 💙🐱MEOWPHEUS <sup>beta release!</sup>🐱💙
 
-## 🐱Created by Head Empty Studios
+<p align="center">
+  <img width="200" src="https://github.com/tsmsuperbee/tsmsuperbee.github.io/blob/main/images/head_empty_studios_logo.png?raw=true" alt="logo">
+</p>
+
+<p align="center">
+  head empty studios
+</p>
+
+## 💙🐱MEOWPHEUS <sup>everything release!</sup>🐱💙
 ##### Jessica Chen  (Artist + Lead Designer) 
 #####  Jaden Ho (Audio + Producer)
 ##### Kendall McNabb (Writer)
@@ -11,8 +18,12 @@
 ##### Marcus Der (Executive Producer)
 
 ## 🐱 How To Play + Instructions: 
-Necessary keyboard keys/controls will after starting a new game. After completing the game, the time taken for completion will be shown to you. Please note this time down as it pertains to a question in our survey.
-#### Please take screenshots should any errors/bugs occur. In our survey, you may upload and elaborate upon these screenshots.
+Necessary keyboard keys/controls will after starting a new game. After completing the game, the time taken for completion will be shown to you. 
+- Use W,A,S,D or Arrow Keys to move
+- Hold SHIFT to run
+- Use J to open the journal
+- Use SPACE to interact with items or speak to others
+
 ## 🐱 Summarized Mechanics: 
 The player explores areas to discover the setting and gain information about the setting and it's inhabitants (like Meowpheus!)
 The information that the player encounters (quests, dialog, clues etc.) is recorded in an always accesible and frequently updated journal.
@@ -23,3 +34,6 @@ The player will use their skills and knowledge (along with the journal, if they 
 #### link to our survey: https://forms.gle/fBq5ERNfJQP21Vp29
 #### [beta release download](/beta_release.zip)
 
+## 🐱GOLD RELEASE
+### [GOLD RELEASE](/gold_release/www)
+#### [gold release download](/gold_release.zip)
