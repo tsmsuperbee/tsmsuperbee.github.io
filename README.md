@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="200" src="https://github.com/tsmsuperbee/tsmsuperbee.github.io/blob/main/images/head_empty_studios_logo.png?raw=true" alt="logo">
+  <img width="200" src="https://raw.githubusercontent.com/tsmsuperbee/tsmsuperbee.github.io/main/images/head_empty_studios_logo.png?token=GHSAT0AAAAAAB4KFSSKPZEBLTXSHFJLACYOY4YDXDQ" alt="logo">
 </p>
 
 <p align="center">
