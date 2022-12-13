@@ -35,5 +35,5 @@ The player will use their skills and knowledge (along with the journal, if they 
 #### [beta release download](/beta_release.zip)
 
 ## 🐱GOLD RELEASE
-### [GOLD RELEASE](/gold_release/www)
-#### [gold release download](/gold_release.zip)
+### [GOLD RELEASE](/gold_release2)
+#### [gold release download](/gold_release2.zip)
